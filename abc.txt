@@ -1,0 +1,14 @@
+
+지역저장소 생성 : git init
+지역저장소에 사용자 등록 
+    git confit user.name "shabek"
+	git config user.mail "shbaek@dfocus.net"
+
+커밋에 포함될 파일 등록
+  git add
+
+
+
+
+
+

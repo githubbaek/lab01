@@ -5,10 +5,21 @@
 	git config user.mail "shbaek@dfocus.net"
 
 커밋에 포함될 파일 등록
-  git add
+  git add .
+  git add <파일명>
+  
+ 커밋 : git commit -m "커밋메세지"
+ git log
+
+===============================================
+
+github에 리포지토리 생성(origin)
+
+원격 리포지토리 등록
+  git remote add origin  https://github.com/githubbaek/lab01.git
+  
 
 
 
 
-
-
+https://github.com/githubbaek/lab01.git
